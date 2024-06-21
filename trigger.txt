@@ -1,1 +1,1 @@
-scipoptsuite/scipoptsuite:8.0.4 registry.cn-beijing.aliyuncs.com/zstu236/scipoptsuite:8.0.4
+doccano/doccano registry.cn-beijing.aliyuncs.com/zstu236/scipoptsuite:8.0.4
