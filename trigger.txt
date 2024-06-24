@@ -1,1 +1,1 @@
-doccano/doccano registry.cn-beijing.aliyuncs.com/zstu236/doccano
+xprobe/xinference:latest registry.cn-beijing.aliyuncs.com/zstu236/xinference
