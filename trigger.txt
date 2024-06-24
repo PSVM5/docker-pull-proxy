@@ -1,1 +1,1 @@
-scipoptsuite/scipoptsuite registry.cn-beijing.aliyuncs.com/zstu236/scipoptsuite
+scipoptsuite/scipoptsuite registry.cn-beijing.aliyuncs.com/zstu236/scipoptsuite2
