@@ -1,1 +1,1 @@
-rabbitmq:management registry.cn-beijing.aliyuncs.com/zstu236/rabbitmq
+paddlepaddle/paddle:3.0.0b0-gpu-cuda12.3-cudnn9.0-trt8.6 registry.cn-beijing.aliyuncs.com/zstu236/paddlepaddle
